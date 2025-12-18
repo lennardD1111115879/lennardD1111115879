@@ -40,7 +40,7 @@ Ich interessiere mich für **Programmierung, Datenbanken und spannende Projekte*
 ---
 
 ## 📱 Kontakt:
-[![Discord](https://img.shields.io/badge/-BastiGame%20auf%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/-lennardyt%20auf%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
