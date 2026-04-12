@@ -49,10 +49,7 @@ Ich interessiere mich für **Programmierung, Datenbanken und spannende Projekte*
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lennardD1111115879&show_icons=true&theme=radical)  
 
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=lennardD1111115879&layout=compact&theme=radical)
 
 ---
 
